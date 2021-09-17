@@ -11,7 +11,7 @@ PyPortal Titano ---  MH-Z14A
 
 GND             ---  16 (this is the pin located on the far end of the connector D3 from the D3 label on the silkscreen)
 
-5V              ---  17 (note that with the default PyPortal wiring, there is 5V output on the pin immediately abov pin D3) 
+5V              ---  17 (note that with the default PyPortal wiring, there is 5V output on the pin immediately above pin D3) 
 
 D3              ---  18
 
